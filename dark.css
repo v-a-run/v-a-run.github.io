@@ -1,0 +1,23 @@
+:root {
+  --mainColor: rgb(15, 14, 14);
+  --secondaryColor: #262724;
+
+  --borderColor: #fff;
+
+  --mainText: #fff;
+  --secondaryText: #eeeeee;
+
+  --themeDotColor: #fff;
+
+  --previewBg: rgba(43, 43, 43, 0.8);
+  --previewShadow: rgb(14, 12, 12);
+
+  --buttonColor: #7e7e7e;
+}
+
+#navigation a {
+  color: var(--mainText);
+}
+/* #0d0c0e; 
+#555555
+#3d3d3d*/
